@@ -1,0 +1,7 @@
+{
+    "theme": "classic",
+    "plugins": [
+        "tex",
+        "highlight"
+    ]
+}
